@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "shaxedchicken:jammer_module_epic" },
+    { "item": "minecraft:nether_star" },
+    { "item": "minecraft:phantom_membrane" }
+  ],
+  "result": {
+    "item": "shaxedchicken:jammer_module_legendary",
+    "count": 1
+  }
+}

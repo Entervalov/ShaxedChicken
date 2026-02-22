@@ -1,0 +1,8 @@
+﻿{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_ingot",
+    "layer1": "minecraft:item/redstone",
+    "layer2": "minecraft:item/paper"
+  }
+}

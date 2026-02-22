@@ -1,0 +1,10 @@
+﻿{
+  "parent": "shaxedchicken:block/jammer",
+  "textures": {
+    "base": "minecraft:block/black_concrete",
+    "panel": "minecraft:block/gray_concrete",
+    "screen": "minecraft:block/observer_front",
+    "antenna": "minecraft:block/iron_block",
+    "coil": "minecraft:block/redstone_block"
+  }
+}
