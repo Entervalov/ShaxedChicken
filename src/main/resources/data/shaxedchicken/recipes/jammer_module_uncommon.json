@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "shaxedchicken:jammer_module_basic" },
+    { "item": "minecraft:gold_ingot" },
+    { "item": "minecraft:glowstone_dust" }
+  ],
+  "result": {
+    "item": "shaxedchicken:jammer_module_uncommon",
+    "count": 1
+  }
+}

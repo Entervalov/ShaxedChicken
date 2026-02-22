@@ -1,0 +1,8 @@
+﻿{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/gold_ingot",
+    "layer1": "minecraft:item/emerald",
+    "layer2": "minecraft:item/quartz"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:iron_ingot" },
+    { "item": "minecraft:redstone" },
+    { "item": "minecraft:glass" }
+  ],
+  "result": {
+    "item": "shaxedchicken:jammer_module_basic",
+    "count": 1
+  }
+}
