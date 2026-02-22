@@ -1,8 +1,0 @@
-﻿{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "minecraft:item/ender_pearl",
-    "layer1": "minecraft:item/blaze_powder",
-    "layer2": "minecraft:item/diamond"
-  }
-}
